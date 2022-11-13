@@ -7,10 +7,10 @@
       "gpu" : "8-core GPU",
       "neural-engine" : "16-core Neural Engine"
     },
-    "memory" : "16"
-    "storage" : "256"
+    "memory" : "16",
+    "storage" : "256",
     "price" : "699",
-    "image" : "https://www.apple.com/v/mac-mini/q/images/specs/hero_silver__fe3mpev33nau_large_2x.jpg" 
+    "image" : "https://www.apple.com/v/mac-mini/q/images/specs/hero_silver__fe3mpev33nau_large_2x.jpg"
   },
   "mini-m1-8gb-512gb": {
     "name" : "Mac Mini",
@@ -20,9 +20,9 @@
       "gpu" : "8-core GPU",
       "neural-engine" : "16-core Neural Engine"
     },
-    "memory" : "16"
-    "storage" : "512"
+    "memory" : "16",
+    "storage" : "512",
     "price" : "699",
     "image" : "https://www.apple.com/v/mac-mini/q/images/specs/hero_silver__fe3mpev33nau_large_2x.jpg"
-  },
+  }
 }
