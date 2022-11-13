@@ -1,4 +1,4 @@
-"products" : [
+"products" : {
   "mini-m1-8gb-256gb": {
     "name" : "Mac Mini",
     "chip" : {
@@ -25,4 +25,4 @@
     "price" : "699",
     "image" : "https://www.apple.com/v/mac-mini/q/images/specs/hero_silver__fe3mpev33nau_large_2x.jpg"
   }
-]
+}
