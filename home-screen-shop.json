@@ -1,0 +1,73 @@
+{
+    "explore" : [
+        {
+            "image": "https://www.ikea.com/us/en/images/products/pello-armchair-holmby-natural__38296_pe130209_s5.jpg?f=xxxs",
+            "name": "PELLO",
+            "short_description": "Armchair, Holmby natural",
+            "price": 74.99
+        },
+        {
+            "image": "https://www.ikea.com/us/en/images/products/adde-chair-white__0728280_pe736170_s5.jpg?f=xxs",
+            "name": "ADDE",
+            "short_description": "Chair, white",
+            "price": 20.00
+        },
+        {
+            "image": "https://www.ikea.com/us/en/images/products/stefan-chair-brown-black-knisa-gray-beige__1068137_pe852981_s5.jpg?f=xxs",
+            "name": "Stefan",
+            "short_description": "Chair, brown-black/Knisa gray/beige",
+            "price": 45.00
+        },
+        {
+            "image": "https://www.ikea.com/us/en/images/products/kaettil-chair-white-knisa-light-gray__1016338_pe830329_s5.jpg?f=xxs",
+            "name": "KÄTTIL",
+            "short_description": "Chair, white/Knisa light gray",
+            "price": 60.00
+        },
+        {
+            "image": "https://www.ikea.com/us/en/images/products/bergmund-cover-for-bar-stool-with-backrest-gunnared-medium-gray__0878966_pe781764_s5.jpg?f=xxs",
+            "name": "BERGMUND",
+            "short_description": "Cover for bar stool with backrest, Gunnared medium gray",
+            "price": 25.00
+        },
+        {
+            "image": "https://www.ikea.com/us/en/images/products/nolmyra-chair-black-black__0169629_pe323574_s5.jpg?f=xxs",
+            "name": "NOLMYRA",
+            "short_description": "Chair, black/black",
+            "price": 49.99
+        },
+        {
+            "image": "https://www.ikea.com/us/en/images/products/tossberg-chair-metal-black-gray__0661921_pe712124_s5.jpg?f=xxs",
+            "name": "TOSSBERG",
+            "short_description": "Chair, metal black/gray",
+            "price": 180.00
+        }
+    ],
+    "best_selling": [
+        {
+            "image": "https://www.ikea.com/us/en/images/products/odger-chair-anthracite__0739669_pe741828_s5.jpg?f=xxs",
+            "name": "ODGER",
+            "short_description": "Chair, anthracite",
+            "price": 100.00
+        },
+        {
+            "image": "https://www.ikea.com/us/en/images/products/voxloev-chair-light-bamboo__0948161_pe798889_s5.jpg?f=xxs",
+            "name": "VOXLÖV",
+            "short_description": "Chair, light bamboo",
+            "price": 115.00
+        },
+        {
+            "image": "https://www.ikea.com/us/en/images/products/tobias-chair-clear-chrome-plated__0727342_pe735614_s5.jpg?f=xxs",
+            "name": "TOBIAS",
+            "short_description": "Chair, clear/chrome plated",
+            "price": 105.00
+        },
+        {
+            "image": "https://www.ikea.com/us/en/images/products/odger-chair-anthracite__0739669_pe741828_s5.jpg?f=xxs",
+            "name": "RÖNNINGE",
+            "short_description": "Chair, green",
+            "price": 105.00
+        }
+    ]
+
+}
